@@ -313,13 +313,14 @@ textarea {
 
 .microscope {
   height: 300px;
-  background: url(../img/microscope.jpg) no-repeat bottom center;
+  background: url(../img/microscope.jpg) bottom center;
   background-size: cover;
 }
 
 .coffee {
-  background: url(../img/coffee.jpg) no-repeat bottom center;
+  background: url(../img/coffee.jpg) bottom center;
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .coffee h2 {
