@@ -329,6 +329,18 @@ textarea {
   background-repeat: no-repeat;
 }
 
+.typing {
+  background: url(../img/typing.jpg) bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.book {
+  background: url(../img/book.jpg) bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .coffee h2 {
   color: #ffffff;
 }
@@ -422,7 +434,7 @@ footer a:hover, footer a:focus {
 
 /* Backgrounds */
 .grey {
-  background-color: #fff4f0;
+  background-color: #f7f7f7;
 }
 
 .white {
