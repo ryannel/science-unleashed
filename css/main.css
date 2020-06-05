@@ -317,13 +317,8 @@ textarea {
   color: #ffffff;
 }
 
-.jumbotron .lead {
-  font-size: 1.7rem;
-  font-weight: initial;
-}
 
 .microscope {
-  height: 300px;
   background: url(../img/microscope.jpg) bottom center;
   background-size: cover;
 }
@@ -470,4 +465,14 @@ footer a:hover, footer a:focus {
 
 .white {
   color: #ffffff;
+}
+
+.fnt-grey {
+  color: #d0d0d0;
+  font-weight: 500;
+}
+
+.bold {
+  font-weight: 400;
+  font-size: 1.2rem;
 }
