@@ -285,8 +285,9 @@ textarea {
 .bg-light {
   background-color: transparent!important;
 }
+
 .navbar-light .navbar-brand {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 600;
   color: #52514c;
 }
@@ -306,7 +307,7 @@ textarea {
 }
 
 .logo {
-  max-width: 5rem;
+  max-width: 3.5rem;
 }
 
 /* Title Box */
