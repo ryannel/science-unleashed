@@ -305,6 +305,10 @@ textarea {
   color: #ffffff;
 }
 
+.logo {
+  max-width: 5rem;
+}
+
 /* Title Box */
 .jumbotron.title h4, .jumbotron.title h1 {
   font-weight: bold;
@@ -393,6 +397,28 @@ footer a:hover, footer a:focus {
   height: 70px;
   color: #ffffff;
   margin: 0 auto;
+}
+
+.circle-icon {
+  max-width: 5rem;
+}
+
+.circle.person {
+  background: url(../img/person.png) center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.circle.graduation {
+  background: url(../img/graduation.png) center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.circle.briefcase {
+  background: url(../img/briefcase.png) center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 /* Cards */
